@@ -2640,8 +2640,9 @@ p {
   padding: 40px 20px 52px;
   background-color: #fff; }
   .single-features .features-title-icon .features-title a {
-    font-size: 26px;
-    line-height: 32px;
+    text-align: center;
+    font-size: 25px;
+    line-height: 22px;
     color: #121212;
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
@@ -3863,4 +3864,7 @@ p.form-message.success, p.form-message.error {
 .manish{
   padding-top: 30px;
   margin-left: 25px;
+}
+.zov{
+  padding-top: 20px;
 }
